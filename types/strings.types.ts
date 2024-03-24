@@ -1,0 +1,1 @@
+export type HELLO = 'hello'
