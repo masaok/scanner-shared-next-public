@@ -1,5 +1,5 @@
 {
-  "name": "scanner-shared-next-public",
+  "name": "@masaok/scanner-shared-next-public",
   "version": "0.1.0",
   "private": true,
   "scripts": {
