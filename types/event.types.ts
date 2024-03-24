@@ -5,11 +5,11 @@ export type Event = {
   startTimeISO: string
   endTimeISO: string
 
-  startUtcIso?: string
-  endUtcIso?: string
+  // startUtcIso: string
+  // endUtcIso: string
 
-  startTimeUtcIso?: string
-  endTimeUtcIso?: string
+  // startTimeUtcIso: string
+  // endTimeUtcIso: string
 
   shift_id?: number
   shift_status?: string
